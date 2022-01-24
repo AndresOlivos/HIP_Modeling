@@ -5,3 +5,9 @@ This folder contains the code used for the modeling and analysis of stream habit
 
 ### Code
 Most of these scripts operate through the user interface of ArcGIS Pro 2.X (ESRI, 2021), although individual scripts can also be used through any Python editing program, provided that ArcGIS Pro is installed. The use of these geoprocessing scripts require input data in metric units (DEM in meters above the level of the sea, and precipitation model in average annual cubic meters) and projected into a metric coordinate systems.
+
+### Inputs
+
+### Outputs
+
+### Fields
